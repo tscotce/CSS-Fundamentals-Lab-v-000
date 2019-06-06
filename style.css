@@ -16,5 +16,7 @@ figcaption {font-size: 10px;
 p {width: 800px;
   text-align: center;
 }
-#details {display: block;}
+#details {display: block;
+  float: left;
+}
 div {float: left;}
