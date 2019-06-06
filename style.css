@@ -19,4 +19,6 @@ p {width: 800px;
 #details {display: block;
   float: left;
 }
-div
+div {background-color: white;
+text-align: center;
+width: 25%;}
