@@ -4,8 +4,7 @@ body {
   margin: 0;
 }
 h1 {text-align: center;}
-nav {text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
-}
+nav {text-align: center;}
+a {padding-right: 10px;
+  padding-left: 10px;}
 figure {text-align: center;}
