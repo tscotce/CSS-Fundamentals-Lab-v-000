@@ -10,4 +10,6 @@ a {padding-right: 10px;
   background-color: white;
 }
 figure {text-align: center;}
-figcaption {font-size: 10px;}
+figcaption {font-size: 10px;
+  text-align: center;
+}
