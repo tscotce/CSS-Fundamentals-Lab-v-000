@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {text-align: center;}
+nav {text-align: center;}
+a {padding-right: 10px;
+  padding-left: 10px;
+  background-color: white;
+}
+figure {text-align: center;}
+figcaption {font-size: 10px;
+  text-align: center;
+}
+p {width: 800px;
+  text-align: center;
+}
+#details {display: block;
+  float: left;
+}
+div {background-color: white;
+text-align: center;
+width: 25%;}
